@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.12",
+        "medansoftware/c45-algorithm-php": "^1.0",
+        "php-ai/php-ml": "^0.8.0"
+    }
+}
